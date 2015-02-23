@@ -63,8 +63,8 @@
         </array>
         <key>windows</key><dict>
             <key>ids</key><dict>
-                <key>156acc76-d684-4387-9d0c-bd81a0fcf081</key><dict>
-                    <key>viewerid</key><string>b8db8038-fda4-4569-9535-d1e1b3a63f0e</string>
+                <key>4aefef14-deea-4c76-ab5d-be5f9f74b97e</key><dict>
+                    <key>viewerid</key><string>554f7ca3-4ffc-4e38-ba16-d6cd7907b9e3</string>
                     <key>viewer_type</key><string>tabbed_viewer</string>
                 </dict>
             </dict>
@@ -79,7 +79,7 @@
                         <string>361c6e61-4f4f-44a0-afff-a994c491b7f3</string>
                     </array>
                 </dict>
-                <key>b8db8038-fda4-4569-9535-d1e1b3a63f0e</key><dict>
+                <key>554f7ca3-4ffc-4e38-ba16-d6cd7907b9e3</key><dict>
                     <key>tabs</key><array>
                         <dict>
                             <key>viewerid</key><string>bc29e788-11d7-42b0-b1dd-9f02b547aaaa</string>
